@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import LinesEllipsis from 'react-lines-ellipsis';
+import './Movie.css';
 
 
 function Movie({title, poster, genres, synopsis}) {
